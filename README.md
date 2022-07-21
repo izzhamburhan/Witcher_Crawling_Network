@@ -12,7 +12,7 @@ web link : https://witcher.fandom.com/wiki/Category:Characters_in_the_stories
 !important - dont forget to <code>Scripts\activate.bat</code> haha
 
 
-### Output (by Group)
+### Output (by Book)
 <div>
 <img width="389" alt="image" src="https://user-images.githubusercontent.com/58935865/180159756-34b156df-c96d-42ad-9cc7-7fc6fd79a48e.png">
 <img width="313" alt="image" src="https://user-images.githubusercontent.com/58935865/180159853-5f5a2339-ba07-4cc2-8dee-b673c0cf6cbe.png">
