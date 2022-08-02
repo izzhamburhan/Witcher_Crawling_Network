@@ -8,9 +8,8 @@ web link : https://witcher.fandom.com/wiki/Category:Characters_in_the_stories
 - Selenium
 - webdriver_manager
 - matplotlib
-- spacy (manipulate text?)
-- displaycy (recognition text)
-- networkx
+- spaCy (manipulate text? | displaCy : recognize/classify text) => https://spacy.io/
+- networkx  => https://networkx.org/
 - pyvis
 
 !important - dont forget to <code>Scripts\activate.bat</code> haha
