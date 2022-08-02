@@ -9,6 +9,7 @@ web link : https://witcher.fandom.com/wiki/Category:Characters_in_the_stories
 - webdriver_manager
 - matplotlib
 - spacy (manipulate text?)
+- displaycy (recognition text)
 - networkx
 - pyvis
 
