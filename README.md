@@ -1,4 +1,4 @@
-# Witcher_Crawling
+# 1. Witcher_Crawling
 - Crawling data for all character in Witcher Book. This crawler are getting all character name by the category of each character in the books.
 web link : https://witcher.fandom.com/wiki/Category:Characters_in_the_stories
 
@@ -8,9 +8,6 @@ web link : https://witcher.fandom.com/wiki/Category:Characters_in_the_stories
 - Selenium
 - webdriver_manager
 - matplotlib
-- spaCy (manipulate text? | displaCy : recognize/classify text) => https://spacy.io/
-- networkx  => https://networkx.org/
-- pyvis
 
 !important - dont forget to <code>Scripts\activate.bat</code> haha
 
@@ -22,3 +19,18 @@ web link : https://witcher.fandom.com/wiki/Category:Characters_in_the_stories
 </div>
 
 Learning From (Thu Vu) : https://www.youtube.com/watch?v=RuNolAh_4bU
+
+<br><br>
+
+# 2. Create Network Witcher
+- Create network by using text in the book. This is learning step in text analysis. I hope i can learn something in this journey (tutorial..lol)
+
+## Software
+- python
+- Jupyter Lab
+- spaCy (manipulate text? | displaCy : recognize/classify text) => https://spacy.io/
+- networkx  => https://networkx.org/
+- pyvis
+
+
+Learning From (Thu Vu) : https://www.youtube.com/watch?v=fAHkJ_Dhr50
