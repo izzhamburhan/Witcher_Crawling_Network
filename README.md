@@ -32,5 +32,11 @@ Learning From (Thu Vu) : https://www.youtube.com/watch?v=RuNolAh_4bU
 - networkx  => https://networkx.org/
 - pyvis
 
+### Output
+<div>
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/58935865/182538398-685b11f9-3b55-4093-a39a-f4acf044b4ec.png">
+<img width="193" alt="image" src="https://user-images.githubusercontent.com/58935865/182538485-f1bb73b3-f153-40f7-b762-8b82ac7f83a1.png">
+</div>
+
 
 Learning From (Thu Vu) : https://www.youtube.com/watch?v=fAHkJ_Dhr50
