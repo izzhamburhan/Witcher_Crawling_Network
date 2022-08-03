@@ -20,6 +20,7 @@ web link : https://witcher.fandom.com/wiki/Category:Characters_in_the_stories
 
 Learning From (Thu Vu) : https://www.youtube.com/watch?v=RuNolAh_4bU
 
+<br><br>
 
 # 2. Create Network Witcher
 - Create network by using text in the book. This is learning step in text analysis. I hope i can learn something in this journey (tutorial..lol)
