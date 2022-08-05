@@ -2,7 +2,7 @@
 - Crawling data for all character in Witcher Book. This crawler are getting all character name by the category of each character in the books.
 web link : https://witcher.fandom.com/wiki/Category:Characters_in_the_stories
 
-## Software
+## Software and Packages
 - python
 - Jupyter Lab
 - Selenium
@@ -25,7 +25,7 @@ Learning From (Thu Vu) : https://www.youtube.com/watch?v=RuNolAh_4bU
 # 2. Create Network Witcher
 - Create network by using text in the book. This is learning step in text analysis. I hope i can learn something in this journey (tutorial..lol)
 
-## Software
+## Software and Packages
 - python
 - Jupyter Lab
 - spaCy (manipulate text? | displaCy : recognize/classify text) => https://spacy.io/
