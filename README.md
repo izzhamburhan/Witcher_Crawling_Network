@@ -12,16 +12,17 @@ web link : (https://harrypotter.fandom.com/wiki/Category:Individuals_by_gender)
 !important - dont forget to <code>Scripts\activate.bat</code> haha
 
 
-### Output (by Gender)
+### Output (by Book)
 <div>
-<img width="263" alt="image" src="https://user-images.githubusercontent.com/58935865/184669350-14e619e7-5390-47cb-b2f3-3773b733b390.png">
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/58935865/180159756-34b156df-c96d-42ad-9cc7-7fc6fd79a48e.png">
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/58935865/180159853-5f5a2339-ba07-4cc2-8dee-b673c0cf6cbe.png">
 </div>
 
 Learning From (Thu Vu) : https://www.youtube.com/watch?v=RuNolAh_4bU
 
 <br><br>
 
-# 2. Create Network Harry Potter
+# 2. Create Network Witcher
 - Create network by using text in the book. This is learning step in text analysis. I hope i can learn something in this journey (tutorial..lol)
 
 ## Software and Packages
@@ -31,10 +32,10 @@ Learning From (Thu Vu) : https://www.youtube.com/watch?v=RuNolAh_4bU
 - networkx  => https://networkx.org/
 - pyvis
 
-### Output -> <code>-</code>
+### Output -> <code>https://izzhamburhan.github.io/witcher_project/</code>
 <div>
-<img width="656" alt="image" src="https://user-images.githubusercontent.com/58935865/184669533-681b29ef-7461-438a-98cd-2043e68e761e.png">
--- taktau kenapa sikit
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/58935865/182538398-685b11f9-3b55-4093-a39a-f4acf044b4ec.png">
+<img width="193" alt="image" src="https://user-images.githubusercontent.com/58935865/182538485-f1bb73b3-f153-40f7-b762-8b82ac7f83a1.png">
 </div>
 
 
